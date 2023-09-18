@@ -10,4 +10,4 @@ _I like typing_
 
         My photo
 
-        link: 
+        link: img/Image_1.jpg
