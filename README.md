@@ -13,7 +13,7 @@ _I like typing_
 
         link: https://github.com/Twistigo/testByTwistigo/blob/main/img/Image_1.jpg
 
-        
+        ![Twistigo](image.png)
 
         link: [img/Image_1.jpg](https://github.com/Twistigo/testByTwistigo/blob/main/img/Image_1.jpg)https://github.com/Twistigo/testByTwistigo/blob/main/img/Image_1.jpg
         
